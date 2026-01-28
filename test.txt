@@ -5,4 +5,4 @@ And this is another commit from local machine.
 
 Another test.
 
-Git Revert 1
+Git Revert 3
